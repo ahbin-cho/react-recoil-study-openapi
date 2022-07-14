@@ -7,6 +7,6 @@ module.exports = {
   useTabs: true, // tab키 사용. false 추천 == space 대체
   arrowParens: "always", // (x) => x, x => x로 전자처럼 괄호 유지
   endOfLine: "auto",
-  bracketSpacing: "true", // 대괄호 {} 사이 공백
-  jsxBracketSameLine: "true", // JSX 요소 > 줄바꿈
+  bracketSpacing: true, // 대괄호 {} 사이 공백
+  jsxBracketSameLine: true, // JSX 요소 > 줄바꿈
 };

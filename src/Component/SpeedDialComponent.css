@@ -1,0 +1,5 @@
+.speed-dial-component a {
+    text-decoration: none;
+    color: gray;
+    line-height: initial;
+}
